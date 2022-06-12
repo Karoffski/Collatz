@@ -19,15 +19,3 @@ function collatz(){
 }
 
 collatz();
-// function lambda(){
-// var counter = 0
-// while (true) {
-//     counter++
-//     console.log(counter)
-//     if(counter == 100){
-//         return;
-//     }
-// }
-// }
-
-// lambda();
